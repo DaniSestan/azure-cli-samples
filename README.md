@@ -7,7 +7,6 @@ products:
 - azure
 ---
 
-bleep blop bloop
 # Sample code used in Microsoft's official Azure CLI documentation
 
 All code in this repository is non-production samples used in Microsoft's official Azure CLI
